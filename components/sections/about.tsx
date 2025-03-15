@@ -42,7 +42,7 @@ export function AboutSection() {
           >
             <h3 className="text-2xl font-semibold mb-4">Who I Am</h3>
             <p className="text-muted-foreground mb-6">
-              I'm a passionate full-stack developer with over 5 years of experience building web applications.
+              I'm a passionate full-stack developer with over 1 year of experience building web applications.
               I specialize in React, Next.js, Node.js, and modern web technologies to create responsive and
               user-friendly applications.
             </p>
