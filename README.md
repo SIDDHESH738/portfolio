@@ -126,7 +126,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact 📞
 If you have any questions or feedback, feel free to reach out:
-- **Email**: your-email@example.com 📧
+- **Email**: siddheshjangale78@gmail.com 📧
 - **GitHub**: [SIDDHESH738](https://github.com/SIDDHESH738) 🐙
 - **LinkedIn**: [Siddhesh Jangale](https://www.linkedin.com/in/siddhesh-jangale-40708123a/) 💼
 - **Portfolio**: [Live Demo](https://devsidd.vercel.app/) 🌐
