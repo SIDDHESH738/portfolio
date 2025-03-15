@@ -26,12 +26,12 @@ export function TestimonialsSection() {
             className="bg-card p-6 rounded-lg shadow-md"
           >
             <p className="text-muted-foreground mb-4">
-              "Working with John was a pleasure. He delivered the project on time and exceeded our expectations."
+              "Working with Sidd was a pleasure. He delivered the project on time and exceeded our expectations."
             </p>
             <div className="flex items-center">
               <div className="w-12 h-12 bg-muted rounded-full mr-4"></div>
               <div>
-                <h4 className="font-semibold">Jane Smith</h4>
+                <h4 className="font-semibold">Soham Lad</h4>
                 <p className="text-sm text-muted-foreground">CEO, Company Inc.</p>
               </div>
             </div>
@@ -45,12 +45,12 @@ export function TestimonialsSection() {
             className="bg-card p-6 rounded-lg shadow-md"
           >
             <p className="text-muted-foreground mb-4">
-              "John's technical skills and attention to detail made our project a success. Highly recommended!"
+              "Sidd's technical skills and attention to detail made our project a success. Highly recommended!"
             </p>
             <div className="flex items-center">
               <div className="w-12 h-12 bg-muted rounded-full mr-4"></div>
               <div>
-                <h4 className="font-semibold">Mike Johnson</h4>
+                <h4 className="font-semibold">Soham Lohote</h4>
                 <p className="text-sm text-muted-foreground">CTO, Tech Solutions</p>
               </div>
             </div>
